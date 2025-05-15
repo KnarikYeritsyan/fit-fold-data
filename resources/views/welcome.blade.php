@@ -16,8 +16,8 @@
 
 <main id="main">
     <div class="max__container mb-5">
-        <div class="d-flex justify-content-center">
-        <img src="/images/logo450x450.png" width="250px">
+        <div class="d-flex justify-content-center mt-3 mb-3">
+            <img src="/images/logo-transparent.svg" width="250px">
         </div>
         <section class="section">
             <article class="article">

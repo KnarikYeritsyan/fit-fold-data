@@ -6,7 +6,7 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>FitFoldData</title>
-    <link rel="icon" type="image/png" href="/images/faveicon.png">
+    <link rel="icon" type="image/png" href="/images/faveicon-backgr-white.svg">
     <link rel="stylesheet" href="/css/all.min.css">
     <link rel="stylesheet" href="/css/bootstrap@5.2.0-beta1.min.css">
     <link rel="stylesheet" href="/css/style.css">
